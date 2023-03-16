@@ -13,6 +13,13 @@ const knownProducts = {
     hasHumidifier: true,
     hasJetFocus: true,
   },
+  '358K': {
+    model: 'Dyson Pure Humidify+Cool Formaldehyde',
+    hardwareRevision: 'PH03/PH04',
+    hasAdvancedAirQualitySensors: true,
+    hasHumidifier: true,
+    hasJetFocus: true,
+  },
   '438': {
     model: 'Dyson Pure Cool Tower',
     hardwareRevision: 'TP04',
